@@ -17,7 +17,7 @@ human-in-the-loop deferral.
 
 ---
 
-## Key results (final run, held-out test set, n = 1,028)
+## Key results ( held-out test set, n = 1,028)
 
 | Metric | Value | 95% CI |
 |---|---|---|
@@ -102,7 +102,7 @@ The executable end-to-end path is the notebook (Colab-ready):
 Reviewers who prefer not to re-run can inspect every output in
 `notebooks/Reproducible_Pipeline_with_outputs.ipynb`.
 
-## Reproducibility guarantees
+## Reproducibility 
 
 - **Single global seed (42)** across Python, NumPy, PyTorch, CUDA
   (`cudnn.deterministic = True`).
