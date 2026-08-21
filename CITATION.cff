@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Uncertainty-Aware Adaptive Fusion with Graceful Degradation for Trustworthy Cervical Cytology"
+authors:
+  - family-names: "Ben Chaabane"
+    given-names: "Slim"
+  - family-names: "Bushnag"
+    given-names: "Anas"
+  - family-names: "Oyouni"
+    given-names: "Atif"
+  - family-names: "Massoudi"
+    given-names: "Wassim"
+  - family-names: "Abuzneid"
+    given-names: "Shakour"
+  - family-names: "Aluneizi"
+    given-names: "Shatha"
+license: MIT
+repository-code: "https://github.com/<username>/cervical-cytology-fusion"
